@@ -1,6 +1,6 @@
 ---
 # Display name
-name: Nelson Bighetti
+name: Larry Dong
 
 # Username (this should match the folder name)
 authors:
@@ -10,32 +10,36 @@ authors:
 superuser: true
 
 # Role/position
-role: Professor of Artificial Intelligence
+role: PhD Student in Biostatistics
 
 # Organizations/Affiliations
 organizations:
-- name: Stanford University
-  url: ""
+- name: University of Toronto
+  url: "https://www.dlsph.utoronto.ca/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: Statistics and data analysis are my strengths, but medical research is my passion.
 
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- Causal Inference
+- Bayesian Methods
+- Dynamic Treatment Regimes
+- Medical Image Analysis
 
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
+  - course: PhD in Biostatistics
+    institution: University of Toronto
+    year: 2025 (Expected)
+  - course: MSc in Biostatistics
+    institution: McGill University
+    year: 2020
+  - course: MSc in Public Health Data Science
+    institution: University of Bordeaux
+    year: 2020
+  - course: BSc in Mathematics
+    institution: McGill University
+    year: 2018
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -44,16 +48,20 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: '#contact'  # For a direct email link, use "mailto:test@example.org".
+  link: 'mailto:larry.dong@mail.utoronto.ca'  # For a direct email link, use "mailto:test@example.org".
 - icon: twitter
   icon_pack: fab
-  link: https://twitter.com/GeorgeCushen
-- icon: google-scholar
-  icon_pack: ai
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+  link: https://twitter.com/larryshamalama
+# - icon: google-scholar
+#   icon_pack: ai
+#   link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
 - icon: github
   icon_pack: fab
-  link: https://github.com/gcushen
+  link: https://github.com/larryshamalama
+- icon: linkedin
+  icon_pack: fab
+  link: "https://www.linkedin.com/in/larry-dong/"
+
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -70,6 +78,10 @@ user_groups:
 - Visitors
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+I am a first year PhD student in biostatistics at the [Dalla Lana School of Public Health](https://www.dlsph.utoronto.ca/) at the University of Toronto. My research interests include causal inference, Bayesian methods and their application to observational data. I am also broadly interested in developing inference-based statistical models for matrix-valued or imaging data.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+Following my remote first year of PhD studies, I am joining [PyMC3](https://github.com/pymc-devs/pymc3) as a Google Summer of Code student! You can follow my progress in my blog [here](https://larrydong.com/gsoc2021/).
+
+Previously, I have pursued a joint Master's degree in Biostatistics at McGill University and in Public Health Data Science at the University of Bordeaux under an [IVADO scholarship](https://ivado.ca/en/spotlight-on-our-academic-community/?programmes=masters-excellence-scholarships). I was jointly supervised by [Dr. Erica Moodie](https://www.ericamoodie.com/) and [Dr. Rodolphe Thiébaut](https://www.bordeaux-population-health.center/profile/rodolphe-thiebaut/).
+
+I also enjoy [coding](https://github.com/larryshamalama) in Python, playing basketball and eating yogurt. Feel free to connect with me!
